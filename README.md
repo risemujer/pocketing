@@ -1,6 +1,5 @@
 # 📌 포토카드 거래 플랫폼 포켓팅(Pocketing)
-![README_이미지](/uploads/8a489b8d0345763137a829f48bb790dc/README_이미지.png)
-
+![image](https://github.com/user-attachments/assets/3b90b433-af7d-4806-914e-a2701f6876d6)
 - 배포 URL : https://k12a406.p.ssafy.io
 
 <br>
@@ -159,38 +158,44 @@
 ### 🌟 메인(판매글 조회)
 - 메인페이지에서 본인의 관심 그룹 및 관심 아이돌을 등록 및 삭제 할 수 있습니다.
 - 메인페이지에서 본인의 관심 그룹 및 관심 아이돌의 포토카드 판매글을 볼 수 있습니다.
-![Pocketing_발표용](/uploads/4432f8842777858f86b133e3ccec7278/Pocketing_발표용.jpg)
+![image](https://github.com/user-attachments/assets/37d6b7fb-99c1-46fa-9568-5225861c2de1)
+
 <br>
 
 ### 🌟 교환
 - 사용자가 보유 및 희망하는 카드를 등록할 수 있습니다.
 - 등록한 보유 및 희망카드를 기반으로 주변의 사용자를 매칭합니다.
-![Pocketing_발표용](/uploads/22f6cf585d08d3dc28b2d78c1484f8fe/Pocketing_발표용.jpg)
+![image](https://github.com/user-attachments/assets/e4c12e0b-e3e8-4725-9ef4-c12476de62ec)
 <br>
 
 ### 🌟 판매
 #### 🔍 판매
-![Pocketing_발표용](/uploads/a8f5b14f349d085aa522371c10a3b563/Pocketing_발표용.jpg)
+![image](https://github.com/user-attachments/assets/858f07b5-87b8-4c3b-b2e5-1e9066b3867f)
+
 <br>
 
 #### 🔍 판매 등록
 - YOLO 모델과 GEMINI를 사용하여 다수의 포토카드를 객체 인식하고 그룹 및 멤버를 분류하여 판매 과정을 단축합니다.
-![Pocketing_발표용](/uploads/b7461f65ef31269b2b355455e21070c1/Pocketing_발표용.jpg)
+![image](https://github.com/user-attachments/assets/a0cda5ed-c3ef-4446-a9a1-1066f76520ce)
+
 <br>
 
 ### 🌟 챗봇
 #### 🔍 챗봇
-![Pocketing_발표용](/uploads/9f7cb3324f907ad1daf67c4907d75fd8/Pocketing_발표용.jpg)
+![image](https://github.com/user-attachments/assets/912b2bf9-004c-4bb1-b8e0-b21aad2b49f3)
+
 <br>
 
 #### 🔍 포토카드 조회
 - 원하는 포토카드를 물어보면 챗봇이 유사한 포토카드와 해당 포토카드의 최저가 판매글을 보여줍니다.
-![Pocketing_발표용](/uploads/9044bf0a5d5142629bfdd659db6dedc2/Pocketing_발표용.jpg)
+![image](https://github.com/user-attachments/assets/f3d733cd-31d3-4ec5-a20c-3d292bef85fd)
+
 <br>
 
 ### 🌟 마이페이지
 - 마이페이지에서 사용자 개인정보 및 관심 그룹 및 아이돌 조회, 판매글 조회가 가능합니다.
-![Pocketing_발표용](/uploads/459a0776dd6f66925a74b89133e4e279/Pocketing_발표용.jpg)
+![image](https://github.com/user-attachments/assets/f79cd078-f019-4610-8e4d-763e246aa411)
+
 
 >>>>>>> README.md
 >>>>>>> README.md
